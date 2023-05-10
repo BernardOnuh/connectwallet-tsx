@@ -1,4 +1,5 @@
 ## How to Create a ConnectWallet Button in Venom Blockchain 
+![v002](https://github.com/BernardOnuh/connectwallet-tsx/assets/114490070/6f2c65bc-8a2b-45b5-800f-748fd4eafb11)
 
 In this guide, we will show you how to create a ConnectWallet button in React using TypeScript, and Venom Connect Wallet SDK.
 
