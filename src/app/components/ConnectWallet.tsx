@@ -12,7 +12,7 @@ function ConnectWallet({ venomConnect }: Props) {
   };
   return (
     <div>
-      <button className='bg-neutral-700 rounded-sm px-5 hover:bg-slate-600' onClick={login}>
+      <button className='bg-[#0077B6] text-white font-medium px-5 py-3 rounded-md hover:bg-[#005F8B]' onClick={login}>
       Connect wallet
       </button>
     </div>
