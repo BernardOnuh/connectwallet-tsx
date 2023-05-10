@@ -13,6 +13,10 @@ You should also have a basic understanding of React and TypeScript.
 
 ## Getting Started
 
+
+https://github.com/BernardOnuh/connectwallet-tsx/assets/114490070/bce93a0e-854e-4837-8562-6568039c155c
+
+
 - First, create a next.js app:
 
 ```bash
