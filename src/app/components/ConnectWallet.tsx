@@ -1,3 +1,4 @@
+"useClient";
 import React from 'react';
 import { VenomConnect } from 'venom-connect';
 
